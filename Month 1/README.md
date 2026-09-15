@@ -19,6 +19,27 @@
 
 ---
 
+## ⚙️ How to Run Locally
+If you want to run this application or test the pipeline on your local machine, follow these steps:
+
+## Clone the repository:
+
+Bash
+git clone [https://github.com/787870/Zidio-Development.git](https://github.com/787870/Zidio-Development.git)
+Navigate to the project folder & install dependencies:
+
+Bash
+cd "Zidio Development/Month 1/src"
+pip install -r requirements.txt
+Launch the Streamlit Dashboard:
+
+Bash
+cd ../app
+streamlit run dashboard.py
+Developed with dedication by Team #8 for Zidio Development.
+
+---
+
 ## 📂 Repository Structure
 ```text
 Month 1/
