@@ -19,24 +19,43 @@
 
 ---
 
+# 🚀 Zidio Development — Month 1
+
+## 📊 Project Overview
+
+This project was developed as part of the **Zidio Development Internship**.
+
+The project focuses on **Data Science, Machine Learning, Data Analysis, and Interactive Dashboard Development** using Python and Streamlit.
+
+---
+
+## 🛠️ Tech Stack & Libraries
+
+- **Language:** Python 3.10+
+- **Data Manipulation & Analysis:** Pandas, NumPy
+- **Machine Learning:** Scikit-Learn (Random Forest Regressor)
+- **Data Visualization:** Seaborn, Matplotlib
+- **Web Application Framework:** Streamlit
+- **Version Control:** Git, GitHub, GitHub Desktop
+- **Development Environment:** VS Code, Jupyter Notebook
+
+---
+
 ## ⚙️ How to Run Locally
-If you want to run this application or test the pipeline on your local machine, follow these steps:
 
-## Clone the repository:
+Follow the steps below to run the project on your local machine.
 
-Bash
-git clone [https://github.com/787870/Zidio-Development.git](https://github.com/787870/Zidio-Development.git)
-Navigate to the project folder & install dependencies:
+### 1️⃣ Clone the Repository
 
-Bash
-cd "Zidio Development/Month 1/src"
+```bash
+git clone https://github.com/787870/Zidio-Development.git
+
+cd "Zidio-Development/Month 1/src"
+
 pip install -r requirements.txt
-Launch the Streamlit Dashboard:
 
-Bash
 cd ../app
 streamlit run dashboard.py
-Developed with dedication by Team #8 for Zidio Development.
 
 ---
 
