@@ -34,3 +34,5 @@ Month 1/
 │   └── 01_data_ingestion_and_eda.ipynb # EDA, Feature Engineering & ML Training Notebook
 └── src/
     └── requirements.txt      # Project dependencies and libraries
+
+git clone [https://github.com/787870/Zidio-Development.git](https://github.com/787870/Zidio-Development.git)
