@@ -55,7 +55,7 @@ st.divider()
 # 2. Load the Data with Caching
 @st.cache_data
 def load_inventory_data():
-    df = pd.read_csv('../data/inventory_snapshots.csv')
+    df = pd.read_csv('Month 1/data/inventory_snapshots.csv')
     return df
 
 inventory_df = load_inventory_data()
